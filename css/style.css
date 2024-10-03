@@ -1653,7 +1653,7 @@ pre code {
 }
 
 
-.contenedor {
+.contenedor-responsive {
     position: relative;
     overflow: hidden;
     padding-top: 56.25%;
