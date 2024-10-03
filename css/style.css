@@ -1652,13 +1652,15 @@ pre code {
   background-color: #b1dfbb;
 }
 
-.contendedor-responsive {
-	position: relative
+.container {
+	position: relative;
+	padding-bootom: 56.25%;
+	height: 0;
 	overflow: hidden;
-	padding-top: 56.25%;
+
 }
 	
-iframe-responsivo {
+.container-iframe {
 position: absolute;
 	top: 0;
 	left: 0;
