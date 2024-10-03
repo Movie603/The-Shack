@@ -1651,8 +1651,20 @@ pre code {
 .table-hover .table-success:hover > th {
   background-color: #b1dfbb;
 }
-
-
+.responsive{ 
+		width: 100%;
+			height: 0;
+			padding-bottom: 56.25%;
+			position: relative;
+			
+		}
+		
+		.responsive iframe{
+		position: absolute;
+			width: 100%;
+			height: 100%;
+			
+		}
 
 
 .table-info,
