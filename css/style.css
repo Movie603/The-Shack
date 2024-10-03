@@ -1653,12 +1653,12 @@ pre code {
 }
 
 
-.contenedor-responsive {
+.contenedor {
     position: relative;
     overflow: hidden;
     padding-top: 56.25%;
 }
-.responsive-iframe {
+.iframe {
     position: absolute;
     top: 0;
     left: 0;
