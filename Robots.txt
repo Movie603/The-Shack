@@ -1,5 +1,13 @@
-Disallow:/READ-ME/
-Disallow:/LICENSE/
+User-agent:*
+Allow:/*/*.css
+Allow:/*/*.js
+allow:/*/*.lib
+allow:/*/*.img
+allow:/*/*.mail
+Disallow:/wp-admin/
+Disallow:/wp-includes/
+Disallow:/READ-ME.txt
+Disallow:/LICENSE.txt
 
 
 
