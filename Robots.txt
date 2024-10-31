@@ -1,13 +1,11 @@
 User-agent:*
-Allow:/*/*.css
-Allow:/*/*.js
-allow:/*/*.lib
-allow:/*/*.img
-allow:/*/*.mail
-Disallow:/wp-admin/
-Disallow:/wp-includes/
+Allow:/public-content/
+Disallow:/admin/
+Disallow:/private-page.html
 Disallow:/READ-ME.txt
 Disallow:/LICENSE.txt
+Sitemap:https://movie603.github.io/The-Shack/sitemap
+
 
 
 
